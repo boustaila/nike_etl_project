@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='1'>
+    <iu id='org.talend.studio.tos.di.product' name='org.talend.studio.tos.di.product' version='8.0.1'>
+      <repositories size='0'/>
+    </iu>
+  </ius>
+</p2f>

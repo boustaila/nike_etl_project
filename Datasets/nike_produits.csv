@@ -1,0 +1,21 @@
+produit_id,nom_produit,categorie,genre,couleur,prix,stock
+P001,Nike Du 82,Chaussures,Homme,Vert,863,135
+P002,Nike Robe 29,Chaussures,Homme,Vert,1416,54
+P003,Nike Rompre 76,Vêtements,Homme,Noir,491,121
+P004,Nike Volonté 30,Accessoires,Homme,Gris,707,376
+P005,Nike Réveiller 84,Accessoires,Unisexe,Blanc,1219,311
+P006,Nike Soudain 36,Chaussures,Femme,Vert,1165,184
+P007,Nike Auteur 36,Chaussures,Femme,Jaune,989,62
+P008,Nike Pendant 12,Vêtements,Homme,Rouge,1004,319
+P009,Nike Remonter 34,Chaussures,Unisexe,Gris,555,482
+P010,Nike Repousser 49,Chaussures,Enfant,Jaune,1040,305
+P011,Nike Mine 25,Accessoires,Homme,Noir,766,405
+P012,Nike Jouer 38,Chaussures,Femme,Jaune,506,204
+P013,Nike Fauteuil 36,Vêtements,Enfant,Blanc,1058,191
+P014,Nike Quelque 27,Accessoires,Enfant,Vert,446,321
+P015,Nike Énorme 82,Chaussures,Femme,Blanc,1246,204
+P016,Nike D'autres 35,Accessoires,Femme,Vert,964,441
+P017,Nike Tranquille 99,Chaussures,Femme,Jaune,365,422
+P018,Nike Comme 41,Vêtements,Enfant,Noir,732,477
+P019,Nike Roche 73,Accessoires,Enfant,Blanc,1322,212
+P020,Nike Bonheur 83,Vêtements,Femme,Rouge,585,136
